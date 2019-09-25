@@ -15,7 +15,7 @@ Please visit [the UNPKG website](https://unpkg.com) to learn more about how to u
 
 Our sponsors and backers are listed [in SPONSORS.md](SPONSORS.md).
 
-###添加拉取私库资源支持
+### 添加拉取私库资源支持
 
 安装依赖：
 
